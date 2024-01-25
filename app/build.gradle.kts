@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.crm.cronometro"
+    namespace = "com.crm.cronmetro"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.crm.cronometro"
+        applicationId = "com.crm.cronmetro"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

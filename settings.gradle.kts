@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "cronometro"
+rootProject.name = "cronómetro"
 include(":app")
  
